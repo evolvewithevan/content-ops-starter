@@ -86,8 +86,7 @@ sections:
         textAlign: left
   - subtitle: Award winning enterprises trust us
     images:
-      - url: /images/avatar1.svg
-        altText: Empathy logo
+      - altText: Empathy logo
         type: ImageBlock
       - type: ImageBlock
         url: /images/hero2.svg
