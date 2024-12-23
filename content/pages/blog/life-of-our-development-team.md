@@ -1,5 +1,5 @@
 ---
-title: '  ‎ ‎ Test1'
+title: Placeholder Text
 slug: life-of-our-development-team
 date: '2023-03-27'
 excerpt: ''
