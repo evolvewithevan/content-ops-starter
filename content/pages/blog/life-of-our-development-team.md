@@ -22,7 +22,7 @@ styles:
     flexDirection: col
     textAlign: justify
     borderColor: border-light
-    borderWidth: 8
+    borderWidth: 1
     padding:
       - pl-2
       - pr-2
