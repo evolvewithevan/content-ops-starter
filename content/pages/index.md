@@ -16,7 +16,7 @@ sections:
           - mb-0
           - mr-0
         padding:
-          - pt-16
+          - pt-32
           - pl-16
           - pb-32
           - pr-16
