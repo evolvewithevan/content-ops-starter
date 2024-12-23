@@ -26,6 +26,7 @@ styles:
     padding:
       - pl-2
       - pr-2
+      - pt-2
     margin:
       - ml-0
 isFeatured: false
