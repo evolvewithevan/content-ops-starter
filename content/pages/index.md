@@ -98,8 +98,8 @@ sections:
       - content/pages/blog/top-twenty-ways-to-save-time.md
     showThumbnail: false
     showExcerpt: false
-    showDate: true
-    showAuthor: true
+    showDate: false
+    showAuthor: false
     actions: []
     elementId: ''
     variant: two-col-grid
