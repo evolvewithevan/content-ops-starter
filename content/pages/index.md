@@ -86,7 +86,7 @@ sections:
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
-      text: Featured posts
+      text: Memories Made
       color: text-dark
       styles:
         self:
