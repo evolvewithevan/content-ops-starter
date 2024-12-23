@@ -1,5 +1,5 @@
 ---
-title: '  ‎ ‎ Test'
+title: Placeholder Text
 slug: life-of-our-development-team
 date: '2023-03-27'
 excerpt: ''
@@ -24,9 +24,9 @@ styles:
     borderColor: border-light
     borderWidth: 0
     padding:
-      - pl-2
-      - pr-2
-      - pt-2
+      - pl-3
+      - pr-3
+      - pt-3
       - pb-2
     margin:
       - ml-0

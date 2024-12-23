@@ -86,15 +86,16 @@ sections:
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
-      text: Featured posts
+      text: Memories Made
       color: text-dark
       styles:
         self:
           textAlign: center
     posts:
       - content/pages/blog/life-of-our-development-team.md
-      - content/pages/blog/surround-yourself-with-right-people.md
-      - content/pages/blog/top-twenty-ways-to-save-time.md
+      - content/pages/blog/life-of-our-development-team.md
+      - content/pages/blog/life-of-our-development-team.md
+      - content/pages/blog/life-of-our-development-team.md
     showThumbnail: true
     showExcerpt: false
     showDate: false
@@ -112,46 +113,9 @@ sections:
           - pb-16
           - pr-1
         justifyContent: center
-  - subtitle: Award winning enterprises trust us
-    images:
-      - altText: Empathy logo
-        type: ImageBlock
-      - type: ImageBlock
-        url: /images/hero2.svg
-        altText: Image alt text placeholder
-        elementId: ''
-        styles:
-          self:
-            borderRadius: medium
-      - url: /images/wellster-logo.svg
-        altText: Wellster logo
-        type: ImageBlock
-      - url: /images/vise-logo.svg
-        altText: Vise logo
-        type: ImageBlock
-      - url: /images/telus-logo.svg
-        altText: Telus logo
-        type: ImageBlock
-      - url: /images/contenful-logo.svg
-        altText: Contentful logo
-        type: ImageBlock
-      - url: /images/sanity-logo.svg
-        altText: Sanity logo
-        type: ImageBlock
-      - url: /images/rangle-logo.svg
-        altText: Rangle logo
-        type: ImageBlock
-    motion: static
-    colors: bg-dark-fg-light
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Services We Offer
       color: text-dark
       styles:
         self:
@@ -160,8 +124,8 @@ sections:
     subtitle: Subtitle goes here
     items:
       - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
+        title: Photography
+        subtitle: Freeze Perfect moments
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
@@ -188,8 +152,8 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
-        subtitle: The Job Stuff
+      - title: Videography
+        subtitle: Capture life in Action
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
@@ -213,8 +177,8 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
-        subtitle: Faster
+      - title: Curating
+        subtitle: Delivering professionally edited photos and videos
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
@@ -246,13 +210,6 @@ sections:
         style: primary
         elementId: ''
         type: Button
-    badge:
-      label: This is a badge
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
     elementId: ''
     variant: three-col-grid
     colors: bg-neutral-fg-dark
