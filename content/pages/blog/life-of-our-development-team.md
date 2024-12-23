@@ -25,7 +25,7 @@ styles:
     borderWidth: 0
     padding:
       - pl-3
-      - pr-2
+      - pr-3
       - pt-2
       - pb-2
     margin:
