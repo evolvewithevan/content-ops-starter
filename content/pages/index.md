@@ -111,7 +111,7 @@ sections:
           - pt-16
           - pl-1
           - pb-16
-          - pr-16
+          - pr-1
         justifyContent: center
   - subtitle: Award winning enterprises trust us
     images:
