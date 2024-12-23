@@ -19,7 +19,8 @@ sections:
     actions: []
     media:
       title: Title of the video
-      url: /images/placeholder-video.mp4
+      url: >-
+        https://www.youtube.com/watch?v=DELkMKZh6e0&list=PLJn-X08ou3H2cIh82_asBGre2kp7CfCyL
       autoplay: true
       loop: true
       muted: true
