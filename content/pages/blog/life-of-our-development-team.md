@@ -27,6 +27,7 @@ styles:
       - pl-2
       - pr-2
       - pt-2
+      - pb-2
     margin:
       - ml-0
     borderRadius: none
