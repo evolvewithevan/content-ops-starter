@@ -21,5 +21,6 @@ styles:
   self:
     flexDirection: col
     textAlign: justify
+    borderColor: border-light
 isFeatured: false
 ---
