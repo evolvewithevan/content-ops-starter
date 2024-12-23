@@ -97,7 +97,7 @@ sections:
       - content/pages/blog/surround-yourself-with-right-people.md
       - content/pages/blog/top-twenty-ways-to-save-time.md
     showThumbnail: false
-    showExcerpt: true
+    showExcerpt: false
     showDate: true
     showAuthor: true
     actions: []
