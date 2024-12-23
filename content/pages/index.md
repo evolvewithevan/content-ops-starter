@@ -95,6 +95,7 @@ sections:
       - content/pages/blog/life-of-our-development-team.md
       - content/pages/blog/life-of-our-development-team.md
       - content/pages/blog/life-of-our-development-team.md
+      - content/pages/blog/life-of-our-development-team.md
     showThumbnail: true
     showExcerpt: false
     showDate: false
