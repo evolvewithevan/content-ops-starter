@@ -20,6 +20,6 @@ type: PostLayout
 styles:
   self:
     flexDirection: col
-    textAlign: right
+    textAlign: justify
 isFeatured: false
 ---
