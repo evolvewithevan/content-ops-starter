@@ -25,5 +25,6 @@ styles:
     borderWidth: 8
     padding:
       - pl-2
+      - pr-2
 isFeatured: false
 ---
