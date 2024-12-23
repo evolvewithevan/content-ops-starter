@@ -4,7 +4,7 @@ slug: life-of-our-development-team
 date: '2023-03-27'
 excerpt: ''
 featuredImage:
-  url: /images/hero3.svg
+  url: /images/abstract-feature1.svg
   altText: Thumbnail
   type: ImageBlock
   styles:
