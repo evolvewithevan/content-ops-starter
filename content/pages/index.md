@@ -115,7 +115,7 @@ sections:
         justifyContent: center
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Services We Offer
       color: text-dark
       styles:
         self:
