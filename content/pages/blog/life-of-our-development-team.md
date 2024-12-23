@@ -27,6 +27,6 @@ styles:
       - pl-2
       - pr-2
     margin:
-      - ml-4
+      - ml-0
 isFeatured: false
 ---
