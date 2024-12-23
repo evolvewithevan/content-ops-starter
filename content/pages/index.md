@@ -178,7 +178,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Curating
-        subtitle: Faster
+        subtitle: Delivering professionally edited photos and videos
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
