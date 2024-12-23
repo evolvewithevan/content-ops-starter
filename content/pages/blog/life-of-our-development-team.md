@@ -22,6 +22,6 @@ styles:
     flexDirection: col
     textAlign: justify
     borderColor: border-light
-    borderWidth: 2
+    borderWidth: 8
 isFeatured: false
 ---
