@@ -24,7 +24,7 @@ styles:
     borderColor: border-light
     borderWidth: 0
     padding:
-      - pl-2
+      - pl-3
       - pr-2
       - pt-2
       - pb-2
