@@ -29,6 +29,6 @@ styles:
       - pt-2
     margin:
       - ml-0
-    borderRadius: x-large
+    borderRadius: none
 isFeatured: false
 ---
