@@ -26,7 +26,7 @@ styles:
     padding:
       - pl-3
       - pr-3
-      - pt-2
+      - pt-3
       - pb-2
     margin:
       - ml-0
