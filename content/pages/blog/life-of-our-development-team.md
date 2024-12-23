@@ -23,5 +23,7 @@ styles:
     textAlign: justify
     borderColor: border-light
     borderWidth: 8
+    padding:
+      - pl-2
 isFeatured: false
 ---
